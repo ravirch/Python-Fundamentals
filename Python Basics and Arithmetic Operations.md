@@ -1,3 +1,5 @@
+### Python Fundamentals - Part 1
+
 #### 1. Introduction to Python & Programming
 **Python** is a high-level, interpreted programming language known for its readability and versatility. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
