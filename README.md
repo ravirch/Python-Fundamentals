@@ -1,3 +1,5 @@
+### README.md
+
 # Python Fundamentals
 
 Welcome to the **Python Fundamentals** repository! This open-source project is designed to provide a comprehensive guide to the fundamental concepts of Python programming. Whether you are a beginner looking to learn Python from scratch or an experienced programmer wanting to brush up on the basics, this repository is for you.
@@ -6,13 +8,13 @@ Welcome to the **Python Fundamentals** repository! This open-source project is d
 
 The repository is divided into four main parts, each focusing on different aspects of Python programming:
 
-1. **Part 1: Python Basics and Arithmetic Operations**
+1. **[Part 1: Python Basics and Arithmetic Operations](Python%20Basics%20and%20Arithmetic%20Operations.md)**
     - Introduction to Python & Programming
     - Arithmetic Operations
     - Precedence and Associative Rule
     - Variables
 
-2. **Part 2: Strings and Input Handling**
+2. **[Part 2: Strings and Input Handling](Strings%20and%20Input%20Handling.md)**
     - Strings (Basic)
     - Escape Sequence
     - `input()`
@@ -21,14 +23,14 @@ The repository is divided into four main parts, each focusing on different aspec
     - Methods on String
     - Assignment Operators (like `+=`, `-=`)
 
-3. **Part 3: Conditional Statements and Loops**
+3. **[Part 3: Conditional Statements and Loops](Conditional%20Statements%20and%20Loops.md)**
     - Conditional Statements
     - Logical Operators
     - `in` / `not in` Keywords
     - Loops in Python
     - Control Statements (`break`, `continue`, `pass`)
 
-4. **Part 4: Functions and Data Structures in Python**
+4. **[Part 4: Functions and Data Structures in Python](Functions%20and%20Data%20Structures%20in%20Python.md)**
     - Functions
     - Return vs Print Statement in Functions
     - Split Function on Strings
@@ -39,7 +41,7 @@ The repository is divided into four main parts, each focusing on different aspec
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Python-Fundamentals.git
+    git clone https://github.com/ravirch/Python-Fundamentals.git
     cd Python-Fundamentals
     ```
 
